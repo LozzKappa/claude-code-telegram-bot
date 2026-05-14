@@ -503,6 +503,14 @@ The bot will respond instantly (< 1 second) once the native MCP notification del
 
 ## License
 
-This blueprint is released to the public domain. Use it, modify it, share it. If you find a better solution or Anthropic ships a fix, please contribute back to the community.
+MIT License — Copyright (c) 2026 Khaled I. (LozzKappa)
+
+Permission is granted to use, copy, modify and distribute this work,
+provided that this copyright notice is preserved in all copies.
+
+If Anthropic ships an official fix or you find a better solution,
+please contribute back by referencing the original issue:
+https://github.com/anthropics/claude-code/issues/46744
+
 
 *Blueprint by Khaled I. — Raspberry Pi 4, May 2026.*
